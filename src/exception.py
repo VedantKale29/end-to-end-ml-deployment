@@ -1,5 +1,4 @@
 import sys
-import logger
 
 def error_msg_detail(error, detail: str) -> str:
     """Generate a detailed error message.
